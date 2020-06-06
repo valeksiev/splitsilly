@@ -1,4 +1,4 @@
-# splitwise
+# splitsilly
 A course project for Contemporary Java Development course in SU-FMI
 
 ## Description
