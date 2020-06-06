@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/gson"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mockito"/>
+	<classpathentry kind="lib" path="/Users/vlad/Downloads/mockito-core-2.23.0.jar"/>
+	<classpathentry kind="lib" path="lib/byte-buddy-1.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/byte-buddy-agent-1.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/mockito-core-2.23.0.jar"/>
+	<classpathentry kind="lib" path="lib/objenesis-2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
